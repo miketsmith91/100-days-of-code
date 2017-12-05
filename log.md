@@ -30,6 +30,10 @@
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 # 100 Days of Code
 
-## Day 0: October 20, 2017
+## Day 0: December 3, 2017
 
 **Today's Progress**: Setup Git on Machine (pretty inexperienced with Git). Also fixed current project Tunedude.
+
+## Day 1: December 4, 2017
+
+**Today's Progress**: Added a class for Google Sheets in my current project, TuneDude.
