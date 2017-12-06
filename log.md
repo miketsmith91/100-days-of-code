@@ -37,3 +37,7 @@
 ## Day 1: December 4, 2017
 
 **Today's Progress**: Added a class for Google Sheets in my current project, TuneDude.
+
+## Day 2: December 5, 2017
+
+**Today's Progress**: Added class for handling song data and created functions for converting files. Learned some features of Git.
