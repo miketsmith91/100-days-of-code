@@ -41,3 +41,7 @@
 ## Day 2: December 5, 2017
 
 **Today's Progress**: Added class for handling song data and created functions for converting files. Learned some features of Git.
+
+## Day 3: Decmber 6, 2017
+
+**Today's Progress**: Got "production" version of my project working on my main machine and added more converter functions to Tunedude project.
